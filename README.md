@@ -1,4 +1,4 @@
-***** python-challenge *****
+***** Python Challenge *****
 
 #1  PyBank
 
